@@ -4,12 +4,12 @@ A responsive chat application built for technical assessment, supporting both gr
 
 ## Features
 
-- ✅ **Group & Single Chat** - Support for both conversation types
-- ✅ **Media Support** - Display images, videos, and PDF files
-- ✅ **Responsive Design** - Works on desktop, tablet, and mobile
-- ✅ **Real-time UI** - Smooth interactions and animations
-- ✅ **File Upload** - Upload and share files directly
-- ✅ **Search** - Filter conversations by name or content
+-  **Group & Single Chat** - Support for both conversation types
+-  **Media Support** - Display images, videos, and PDF files
+-  **Responsive Design** - Works on desktop, tablet, and mobile
+-  **Real-time UI** - Smooth interactions and animations
+-  **File Upload** - Upload and share files directly
+-  **Search** - Filter conversations by name or content
 
 ## Deployment on Vercel
 
